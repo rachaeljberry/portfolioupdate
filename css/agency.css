@@ -50,7 +50,7 @@ h6 {
   margin: 0 auto;
 }
 .bg-light-gray {
-  background-color: white;
+  background-color: #eeeeee;
 }
 .bg-darkest-gray {
   background-color: #222222;
@@ -303,11 +303,14 @@ section h3.section-subheading {
   text-transform: none;
 }
 
-.serivce-about {
+.serivce-about p {
 
-    text-align: left;
+  
+    padding-left: 100px;
+    padding-right: 100px;
 
 }
+
 .img-responsive-profile {
   margin: auto;
     padding-bottom: 50px;
